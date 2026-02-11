@@ -79,7 +79,7 @@ body{
     height: 14%;
     font-size: 15px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
+    color: rgb(61, 13, 13);
 
 }
 
@@ -217,9 +217,9 @@ body{
     font-style:normal;
     transition: all 0.1s linear;
     background-color: transparent;
-    border: solid 2px #FF6863;
+    border: solid 2px #ff63a1;
     border-radius: 4px;
-    color: #FF6863;
+    color: #ff63a1;
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
@@ -233,7 +233,7 @@ body{
 }
 
 .reset button:hover {
-    background-color: #FF6863;
+    background-color: #e253b2;
     cursor: pointer;
     color: white;
 }
