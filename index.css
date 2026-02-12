@@ -7,7 +7,7 @@ body{
 .envelope-wrapper{
     height: 380px;
 }
-
+ 
 /* # represents ID Selector */
 #envelope {
     position: relative;
